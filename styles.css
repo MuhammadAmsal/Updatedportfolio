@@ -412,23 +412,23 @@
     width: 90%;
   }
   .progress-line.css span {
-    width: 50%;
-  }
-  
-  .progress-line.typeScript span {
-    width: 60%;
-  }
-  
-  .progress-line.python span {
     width: 70%;
+  }
+  
+  .progress-line.javaScript span {
+    width: 70%;
+  }
+  
+  .progress-line.react span {
+    width: 80%;
   }
   
   .progress-line.dataAnalysis span {
     width: 80%;
   }
   
-  .progress-line.sql span {
-    width: 20%;
+  .progress-line.firebase span {
+    width: 70%;
   }
   
   .progress-line span::after {
@@ -448,19 +448,19 @@
     content: "90%";
   }
   .progress-line.css span::after {
-    content: "50%";
-  }
-  .progress-line.typeScript span::after {
-    content: "60%";
-  }
-  .progress-line.python span::after {
     content: "70%";
+  }
+  .progress-line.javaScript span::after {
+    content: "70%";
+  }
+  .progress-line.react span::after {
+    content: "80%";
   }
   .progress-line.dataAnalysis span::after {
     content: "80%";
   }
-  .progress-line.sql span::after {
-    content: "20%";
+  .progress-line.firebase span::after {
+    content: "70%";
   }
   
   .progress-line span::before {
